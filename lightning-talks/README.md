@@ -1,0 +1,1 @@
+* Embedded Rust Ecosystem - Rust Cracow #1, 20.09.2023
